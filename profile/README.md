@@ -1,4 +1,4 @@
-# Code repositories at the Bogacz group, University of Oxford
+# Code repositories at the Bogacz Group, University of Oxford
 
 ## Links to repositories 
 
