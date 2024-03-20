@@ -1,5 +1,7 @@
 # Code repositories at the Bogacz Group, University of Oxford
 
+![bogacz](https://www.mrcbndu.ox.ac.uk/sites/default/files/Rafal-group-index-banner_0.jpg)
+
 ## Links to repositories 
 
 - **Predictive coding**
