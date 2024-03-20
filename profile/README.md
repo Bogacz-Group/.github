@@ -2,6 +2,8 @@
 
 ![bogacz](https://www.mrcbndu.ox.ac.uk/sites/default/files/Rafal-group-index-banner_0.jpg)
 
+*<span style="font-size:0.9em;">Banner credit to group BNDU website</span>*
+
 ## Links to repositories 
 
 - **Predictive coding**
