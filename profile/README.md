@@ -18,7 +18,7 @@
 
 - **Action selection in the basal ganglia**
 
-    - ...
+    - [Dopamine encoding of novelty facilitates efficient uncertainty-driven exploration](https://github.com/wang-yu-hao/BasalGangliaExploration)
 
 - **Deep brain stimulation**
 
