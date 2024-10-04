@@ -7,6 +7,8 @@
 ## Links to repositories 
 
 - **Predictive coding**
+  
+    - [Learning Grid Cells by Predictive Coding](https://github.com/C16Mftang/place-cell-pred-coding)
 
     - [Monte Carlo Predictive Coding](https://github.com/gaspardol/MonteCarloPredictiveCoding)
 
@@ -28,4 +30,5 @@
 
 - **Tools**
 
-    - [LaTeX template for response to reviewers](https://www.overleaf.com/read/zwypmjcffmgj#579136)    
+    - [LaTeX template for response to reviewers](https://www.overleaf.com/read/zwypmjcffmgj#579136)
+    - [University of Oxford Advanced Research Computing Guidance](https://github.com/C16Mftang/ARC-manual/blob/master/ARC_notes.md)
