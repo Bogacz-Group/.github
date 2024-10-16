@@ -26,9 +26,10 @@
 
 - **Deep brain stimulation**
 
-    - ...
+    - [Toolbox for testing brain stimulation strategies](https://github.com/gihan-weerasinghe/neurolab)
 
 - **Tools**
 
     - [LaTeX template for response to reviewers](https://www.overleaf.com/read/zwypmjcffmgj#579136)
+      
     - [University of Oxford Advanced Research Computing Guidance](https://github.com/C16Mftang/ARC-manual/blob/master/ARC_notes.md)
