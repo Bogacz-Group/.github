@@ -7,6 +7,7 @@
 ## Links to repositories 
 
 - **Predictive coding**
+    - [**Predictive coding implementation with Pytorch**](https://github.com/Bogacz-Group/PredictiveCoding)
   
     - [Learning Grid Cells by Predictive Coding](https://github.com/C16Mftang/place-cell-pred-coding)
 
