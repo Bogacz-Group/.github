@@ -24,6 +24,8 @@
     - [Dopamine encoding of novelty facilitates efficient uncertainty-driven exploration](https://github.com/wang-yu-hao/BasalGangliaExploration)
  
     - [Reward Bases: A simple mechanism for adaptive acquisition of multiple reward types](https://github.com/YuhangSong/reward-bases)
+ 
+    - [Two-Drift Race Diffusion Model](https://github.com/C-Collingwood/TD_RDM)
 
 - **Deep brain stimulation**
 
