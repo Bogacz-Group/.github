@@ -20,6 +20,8 @@
     - [Temporal Predictive Coding](https://github.com/C16Mftang/temporal-predictive-coding)
  
     - [Error-based Predictive Coding](https://github.com/cgoemaere/error_based_PC) _(with PyTorch Lightning)_
+    
+    - [Bidirectional predictive coding](https://github.com/gaspardol/BidirectionalPredictiveCoding) 
 
 - **Action selection in the basal ganglia**
 
