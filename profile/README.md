@@ -25,6 +25,8 @@
 
 - **Action selection in the basal ganglia**
 
+    - [Modelling habitual behaviour and action prediction errors in dorsolateral striatum](https://github.com/Bogacz-Group/DLS_APE)
+
     - [Dopamine encoding of novelty facilitates efficient uncertainty-driven exploration](https://github.com/wang-yu-hao/BasalGangliaExploration)
  
     - [Reward Bases: A simple mechanism for adaptive acquisition of multiple reward types](https://github.com/YuhangSong/reward-bases)
