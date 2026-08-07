@@ -27,6 +27,8 @@
 
     - [Modelling habitual behaviour and action prediction errors in dorsolateral striatum](https://github.com/Bogacz-Group/DLS_APE)
 
+    - [Temporal-difference action learning](https://github.com/C-Collingwood/Temporal-Difference-Action-Learning)
+
     - [Dopamine encoding of novelty facilitates efficient uncertainty-driven exploration](https://github.com/wang-yu-hao/BasalGangliaExploration)
  
     - [Reward Bases: A simple mechanism for adaptive acquisition of multiple reward types](https://github.com/YuhangSong/reward-bases)
